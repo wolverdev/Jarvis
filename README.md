@@ -51,7 +51,7 @@ Laravel Jarvis is a starter project made with Laravel Jetstream Inertia Vue and 
 Clone the git repository
 
 ```bash
-git clone https://github.com/erikwibowo/Laravel-Jarvis.git
+git clone https://github.com/wolverdev/Laravel-Jarvis.git
 ```
 
 Go to the folder
