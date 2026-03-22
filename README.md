@@ -1,5 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.ibb.co.com/4MqS4xK/Laravel-Jarvis.png" width="800" alt="Laravel Jarvis"></a></p>
-
 # Screenshots
 
 <p align="center">
